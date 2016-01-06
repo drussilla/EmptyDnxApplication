@@ -1,3 +1,4 @@
 project.lock.json
 src/Backend/bin/
 test/Backend.Test/bin/
+artifacts/
